@@ -1,0 +1,8 @@
+ Umumlashtirish, abstraksiyalash operatsiyasidan ajralgan holda sodir bo‘lmaydi
+ har qanday umumlashtirish asosida abstraksiyalash ja-
+ rayoni yotadi. Umumlashtirish jarayoni abstraksiyasiz mavjud boiishi
+ mumkin lekin abstraksiyasiz umumlashtirishning yuzaga kelishi
+ mumkin emas. Agar abstraksiyalash faoliyatida narsa va hodisalaming
+ o‘xshash hamda muhim belgilari tasodif belgilardan fikran ajratib olinsa
+ umumlashtirishda esa ajratib olingan o‘xshash, umumiy va muhim
+ belgilarga suyangan holda narsa va hodisalar birlashtiriladi.
