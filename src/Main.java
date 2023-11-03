@@ -32,5 +32,6 @@ public class Main {
         } catch (Exception e) {
             log.severe("Run time exeption bor!");
         }
+        System.out.println();
     }
 }
